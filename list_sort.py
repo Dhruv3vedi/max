@@ -7,5 +7,4 @@ for i in range(n):
 list_Og.sort()
 
 print("The sorted list is as follows :")
-print("Hi my fist change")
 print(list_Og)
